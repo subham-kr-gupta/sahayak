@@ -1,2 +1,3 @@
 google-cloud-aiplatform[adk,agent_engines]
 cloudpickle
+litellm
